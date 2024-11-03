@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "daspro-jobsheet6",
+			"path": "../daspro-jobsheet6"
+		},
+		{
+			"name": "daspro-jobsheet7",
+			"path": "../daspro-jobsheet7"
+		},
+		{
+			"name": "daspro-jobsheet8",
+			"path": "../daspro-jobsheet8"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
